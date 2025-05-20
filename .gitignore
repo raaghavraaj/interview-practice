@@ -1,0 +1,61 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VS Code settings
+.vscode/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# OS-generated files
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Compiled files
+*.class
+*.o
+*.out
+*.exe
+*.dll
+*.pyc
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Build folders
+dist/
+build/
+coverage/
+
+# JetBrains IDEs
+.idea/
+
+# Git directories
+.git/
+*.orig
+
+# Backup files
+*.bak
+*.old
+*.tmp
